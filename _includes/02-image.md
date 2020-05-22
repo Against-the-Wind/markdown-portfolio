@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Galaxy-Studio-Logo](https://github.com/Galaxy-Studio-Team/sources/master/icon.png)
